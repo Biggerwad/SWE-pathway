@@ -1,14 +1,10 @@
-A great beginner-friendly project is a **"Task Manager CLI App"**. This project will help you practice Python basics, file handling, and working with lists and dictionaries.  
-
----
-
 ### **Project: Task Manager (CLI-based)**  
 #### **Features:**  
-✅ Add new tasks  
-✅ View all tasks  
-✅ Mark tasks as completed  
-✅ Delete tasks  
-✅ Save tasks to a file so they persist after closing the program  
+- Add new tasks  
+- View all tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Save tasks to a file so they persist after closing the program  
 
 #### **Steps to Build It:**  
 1. **Create a Python script (`task_manager.py`).**  
@@ -37,8 +33,6 @@ A great beginner-friendly project is a **"Task Manager CLI App"**. This project 
 ---
 
 ### **How This Helps You Learn:**  
-✅ Strengthens your Python fundamentals (loops, conditionals, functions)  
-✅ Introduces file handling (reading/writing data)  
-✅ Gives hands-on experience with list/dictionary data structures  
-
-Would you like a complete starter code for this? 🚀
+- Strengthens your Python fundamentals (loops, conditionals, functions)  
+- Introduces file handling (reading/writing data)  
+- Gives hands-on experience with list/dictionary data structures  
